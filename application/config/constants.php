@@ -93,5 +93,5 @@ define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 	Defining your constants for EMAIL SMTP setup - USER Credentials
 	Uses Gmail SMTP as email sender of the Web Application
 */
-define('SITE_EMAIL_USER', 'hostexchangeoperations@gmail.com');
-define('SITE_EMAIL_PASSWORD', 'HEOcart2016');
+define('SITE_EMAIL_USER', 'someoneemail');
+define('SITE_EMAIL_PASSWORD', 'someonepassword');
