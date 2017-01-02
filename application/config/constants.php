@@ -95,3 +95,4 @@ define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 */
 define('SITE_EMAIL_USER', 'someoneemail');
 define('SITE_EMAIL_PASSWORD', 'someonepassword');
+
