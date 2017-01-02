@@ -1,5 +1,5 @@
 # CART
-#### CART (Centralized Activity Reqest Tool) ####
+#### CART (Centralized Activity Reqest Tool) Requirements####
  - Codeigniter (3.0.0) http://codeigniter.com
  - DataTables (http://datatables.net)
  - Modal Dialog (https://github.com/nakupanda/bootstrap3-dialog)
@@ -10,10 +10,11 @@
 
 #### GMAIL SMTP USAGE ####
  - To Support GMAIL SMTP Setup for Emailing the Activities
- - set application/config/constants.php and change the second arguments of the below two lines
+ - set application/config/constants.php and change the second arguments of the below two lines::
+ 
     define('SITE_EMAIL_USER', 'someoneemail');
     define('SITE_EMAIL_PASSWORD', 'someonepassword');
-    
+
 License
 -------
     MIT License
