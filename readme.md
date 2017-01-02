@@ -13,6 +13,7 @@
  - set application/config/constants.php and change the second arguments of the below two lines
     define('SITE_EMAIL_USER', 'someoneemail');
     define('SITE_EMAIL_PASSWORD', 'someonepassword');
+    
 License
 -------
     MIT License
