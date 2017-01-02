@@ -1,5 +1,5 @@
-# Centralized Activity Reqest Tool
-#### CART ####
+# CART
+#### CART (Centralized Activity Reqest Tool) ####
  - Codeigniter (3.0.0) http://codeigniter.com
  - DataTables (http://datatables.net)
  - Modal Dialog (https://github.com/nakupanda/bootstrap3-dialog)
@@ -12,7 +12,7 @@ License
 -------
     MIT License
 
-    Copyright (c) 2017 Rchard C.
+    Copyright (c) 2017 Richard C.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
