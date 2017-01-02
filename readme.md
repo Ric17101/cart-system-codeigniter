@@ -8,6 +8,11 @@
  - bootstrap-datepicker (http://bootstrap-datepicker.readthedocs.org/)
  - bootstrap-datetimejs (https://github.com/Eonasdan/bootstrap-datetimepicker)
 
+#### GMAIL SMTP USAGE ####
+ - To Support GMAIL SMTP Setup for Emailing the Activities
+ - set application/config/constants.php and change the second arguments of the below two lines
+    define('SITE_EMAIL_USER', 'someoneemail');
+    define('SITE_EMAIL_PASSWORD', 'someonepassword');
 License
 -------
     MIT License
