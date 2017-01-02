@@ -1,5 +1,5 @@
 CHANGES.rst
-/system
+system/
 */config/development
 */logs/log-*.php
 !*/logs/index.html
