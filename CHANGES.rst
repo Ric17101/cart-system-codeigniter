@@ -1137,5 +1137,12 @@ NOTE:
 
 
 
-
-	
+Version 5.3.62
+Date 1/2/2017
+Changes:
+	Defining Application Constants in Codeigniter
+		The process is simple:
+		Defining a constant. Open config/constants.php and add the following line:
+			define('SITE_CREATOR', 'John Doe')
+		use this constant in another file using: 
+			$myVar = 'This site was created by '.SITE_CREATOR.' Check out my GitHub Profile'
